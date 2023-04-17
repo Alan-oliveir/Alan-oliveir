@@ -1,7 +1,6 @@
 ## Alan de Oliveira Gonçalves 👋
 
 #### Graduando em engenharia eletrônica e de computação e técnico em eletrônica.
-
 - 🔭 Atualmente curso engenharia eletrônica e de computação na UFRJ.
 - 🌱 Ultimente venho estudando e me dedicando em ciência de dados e inteligência artificial.
 - 👯 Estou procurando colaborar em projetos de software livre.
@@ -10,10 +9,15 @@
 - ⚡ Curiosidade: no tempo livre curto jogos de RPG.
 
 ##
-
 Já trabalhei com manutação e montagem de computadores. Participei de projetos de automação residencial com microcontroladores PIC, fui membro da equipe de competição universitária Ícarus UFRJ de Fórmula SAE e mais recentemente fiz um projeto para identificar e simular um circuito eletrônico a partir de uma o foto do circuito, usando redes neurais e visão computacional.
-##
 
+##
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-oliveir&line_height=33)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-oliveir&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
+##
 - 🖥️ **Atualmente mais focado em aprender e trabalhar com:**
 <div style="display: inline">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,3 +32,5 @@ Já trabalhei com manutação e montagem de computadores. Participei de projetos
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+
