@@ -13,7 +13,7 @@ Já trabalhei com manutação e montagem de computadores. Participei de projetos
 
 ##
 &nbsp;&nbsp;&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-oliveir&hide=issues&line_height=19&card_width=300&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-oliveir&hide=issues&line_height=19&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-oliveir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
