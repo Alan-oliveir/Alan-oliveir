@@ -11,11 +11,12 @@
 ##
 Já trabalhei com manutação e montagem de computadores. Participei de projetos de automação residencial com microcontroladores PIC, fui membro da equipe de competição universitária Ícarus UFRJ de Fórmula SAE e mais recentemente fiz um projeto para identificar e simular um circuito eletrônico a partir de uma o foto do circuito, usando redes neurais e visão computacional.
 
-##
+<!--- ##
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-oliveir&hide=issues&line_height=24&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-oliveir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ##
 - 🖥️ **Atualmente mais focado em aprender e trabalhar com:**
