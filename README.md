@@ -25,7 +25,9 @@ Tenho interesse em computação, inteligência artificial, automação e robóti
 - 🖥️ **Atualmente mais focado em aprender e trabalhar com:**
 <div style="display: inline">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 </div>
 
 ##
