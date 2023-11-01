@@ -32,7 +32,7 @@ Tenho interesse em computação, inteligência artificial, automação e robóti
 - **Você também me encontra no:**
 <div style="display: inline">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https:/www.linkedin.com/in/alan-oliveira-gonçalves">
+  <a href="https://www.linkedin.com/in/alan-oliveira-gon%C3%A7alves/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
