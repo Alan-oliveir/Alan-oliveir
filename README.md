@@ -9,11 +9,7 @@
 - ⚡ Curiosidade: no tempo livre curto jogos de RPG.
 
 ##
-Curso engenharia eletrônica e de computação na UFRJ e sou técnico em eletrônica, formado na FAETEC-RJ. Fiz estágio como técnico em eletrônica no Laboratório de Ciências Radiológicas da UERJ. Já trabalhei com montagem e manutenção de computadores.
-Faço iniciação científica no Laboratório de Ondas e Correntes - LOC - Coppe/UFRJ. Neste laboratório faço a programação de microcontroladores ESP32 em linguagem C++, para controle de motores e sensores, além de design e confecção de circuitos impressos.
-Na faculdade fiz um projeto chamado PhotoSpice para identificar e simular um circuito eletrônico, a partir de uma o foto do circuito, usando redes neurais e visão computacional. No curso técnico fiz projetos de automação residencial usando microcontroladores PIC.
-Fui membro da equipe de competição universitária Ícarus UFRJ de Fórmula SAE.
-Tenho interesse em computação, inteligência artificial, automação e robótica; busco oportunidades nestas áreas.
+Engenheiro Eletrônico e de Computação pela UFRJ, com formação técnica em Eletrônica pela FAETEC-RJ. Experiência em pesquisa no Laboratório de Ondas e Correntes (LOC) - Coppe/UFRJ, programando microcontroladores ESP32 em C++ e desenvolvendo circuitos impressos. Desenvolvi o projeto PhotoSpice, utilizando Python, redes neurais e visão computacional para identificar e simular circuitos a partir de fotos. Também realizei projetos pessoais em Javascript, CSS e HTML, utilizando o framework React, além de um projeto freelance com Python, TKinter e SQLite. Interessado em desenvolvimento full-stack, análise de dados, inteligência artificial e automação.
 
 ##
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
