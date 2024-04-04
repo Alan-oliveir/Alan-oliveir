@@ -23,7 +23,9 @@ Engenheiro Eletrônico e de Computação pela UFRJ, com formação técnica em E
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />          
 </div>
 
 ##
