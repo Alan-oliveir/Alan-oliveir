@@ -19,9 +19,6 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 📚 Conhecimento básico
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -43,6 +40,11 @@ Acesse também alguns dos meus perfis e projetos:
 [![Meus Projetos](https://img.shields.io/badge/📁%20Meus%20Projetos-Visualizar-blue?style=for-the-badge)](https://github.com/Alan-oliveir/Projetos)
 [![Credly](https://img.shields.io/badge/Credly-Conquistas-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/alan-de-oliveira-goncalves)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Projetos-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/alanogoncalves)
+
+## 
+### 🎓 Certificações
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-blue?style=for-the-badge)](https://www.credly.com/badges/ed519dd2-c10b-423d-b576-f02bf2869059)  
+**GitHub Foundations** – Emitido por GitHub no Credly
 
 ##
 ### 📊 GitHub Stats
