@@ -9,7 +9,7 @@
 - ⚡ Curiosidade: no tempo livre curto jogos de RPG.
 
 ##
-Engenheiro Eletrônico e de Computação pela UFRJ, com formação técnica em Eletrônica pela FAETEC-RJ. Experiência em pesquisa no Laboratório de Ondas e Correntes (LOC) - Coppe/UFRJ, programando microcontroladores ESP32 em C++ e desenvolvendo circuitos impressos. Desenvolvi o projeto PhotoSpice, utilizando Python, redes neurais e visão computacional para identificar e simular circuitos a partir de fotos. Também realizei projetos pessoais em Javascript, CSS e HTML, utilizando o framework React, além de um projeto freelance com Python, TKinter e SQLite. Interessado em desenvolvimento full-stack, análise de dados, inteligência artificial e automação.
+Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formação técnica em Eletrônica (FAETEC-RJ). Minha experiência inclui pesquisas em laboratórios, onde desenvolvi soluções com ESP32 em C++ e circuitos impressos e pesquisas em visão computacional para detecção de corrosão em superfícies. Destaque para o projeto PhotoSpice (Python, redes neurais, visão computacional). Possuo experiência em desenvolvimento web (React, Node.js, Spring Boot, Django) e desktop (Python, Tkinter, SQLite, C#) e software embarcados, incluindo projetos freelancer. Atualmente, foco em IA, IoT e desenvolvimento full-stack. Tenho interesse em colaborar com projetos de software livre e sou entusiasta de eletrônica e programação. Busco oportunidades para aplicar meus conhecimentos em computação, IA e automação.
 
 ##
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
