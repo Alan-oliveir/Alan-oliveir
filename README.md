@@ -2,10 +2,8 @@
 
 #### Graduando em engenharia eletrônica e de computação e técnico em eletrônica.
 
-- 🔭 Atualmente curso engenharia eletrônica e de computação na UFRJ.
 - 🌱 Ultimamente venho estudando e me dedicando em ciência de dados e inteligência artificial.
 - 👯 Estou procurando colaborar em projetos de software livre.
-- 🤔 Estou à procura de ajuda com aplicações python e desenvolvimento web.
 - 💬 Pergunte-me sobre eletrônica, Arduíno e programação de microcontroladores.
 - ⚡ Curiosidade: no tempo livre curto jogos de RPG.
 
