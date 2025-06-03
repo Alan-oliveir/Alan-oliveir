@@ -49,6 +49,7 @@ Acesse também alguns dos meus perfis e projetos:
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alan-oliveir&hide=issues&show_icons=true&theme=default&card_width=300" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=Alan-oliveir&count_private=true&theme=default" alt="streak stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-oliveir&layout=compact&theme=default" />
 </div>
 
