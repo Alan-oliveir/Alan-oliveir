@@ -8,6 +8,7 @@
 - ⚡ Curiosidade: no tempo livre curto jogos de RPG.
 
 ##
+
 Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formação técnica em Eletrônica (FAETEC-RJ). Minha experiência inclui pesquisas em laboratórios, onde desenvolvi soluções com ESP32 em C++ e circuitos impressos e pesquisas em visão computacional para detecção de corrosão em superfícies. Destaque para o projeto PhotoSpice (Python, redes neurais, visão computacional). Possuo experiência em desenvolvimento web (React, Node.js, Spring Boot, Django) e desktop (Python, Tkinter, SQLite, C#) e softwares embarcados, incluindo projetos freelancer. Atualmente, foco em IA, IoT e desenvolvimento full-stack. Tenho interesse em colaborar com projetos de software livre e sou entusiasta de eletrônica e programação. Busco oportunidades para aplicar meus conhecimentos em computação, IA e automação.
 
 ##
@@ -41,6 +42,7 @@ Acesse também alguns dos meus perfis e projetos:
 
 ## 
 ### 🎓 Certificações
+
 [![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-blue?style=for-the-badge)](https://www.credly.com/badges/ed519dd2-c10b-423d-b576-f02bf2869059)  
 **GitHub Foundations** – Emitido por GitHub no Credly
 
@@ -49,8 +51,14 @@ Acesse também alguns dos meus perfis e projetos:
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alan-oliveir&hide=issues&show_icons=true&theme=default&card_width=300" />
-  <img height="150em" src="https://streak-stats.demolab.com/?user=Alan-oliveir&count_private=true&theme=default" alt="streak stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-oliveir&layout=compact&theme=default" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=Alan-oliveir&count_private=true&theme=default" alt="streak stats"/>  
+</div>
+
+##
+### 🏷️ Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-oliveir&layout=compact&langs_count=8&theme=default&hide=jupyter%20notebook,blade" />
 </div>
 
 ##
