@@ -47,19 +47,11 @@ Acesse também alguns dos meus perfis e projetos:
 ##
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alan-oliveir&hide=issues&show_icons=true&theme=default&card_width=300" />
-    </td>
-    <td>
-      <img height="150em" src="https://streak-stats.demolab.com/?user=Alan-oliveir&count_private=true&theme=default" alt="streak stats"/>
-    </td>
-    <td>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-oliveir&layout=compact&theme=default" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="360px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Alan-oliveir&show_icons=true&theme=default" />
+  <img width="370px" height="150px" src="https://streak-stats.demolab.com/?user=Alan-oliveir&count_private=true&theme=default" alt="streak stats"/>
+  <img width="270px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-oliveir&layout=compact&theme=default" />
+</div>
 
 ##
 ### 🏆 GitHub Trophies
