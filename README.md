@@ -16,13 +16,14 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 
 #### 🔧 Uso frequente
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB500?style=for-the-badge&logo=python&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFB500?style=for-the-badge&logo=python&logoColor=white)
-
+ 
 #### 🧠 Estudando atualmente
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -35,10 +36,11 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 
 Acesse também alguns dos meus perfis e projetos:
 
-[![Portfólio Notion](https://img.shields.io/badge/Notion-Portfólio-000000?style=for-the-badge&logo=notion)](https://bit.ly/4iIKB2K)
-[![Meus Projetos](https://img.shields.io/badge/📁%20Meus%20Projetos-Visualizar-blue?style=for-the-badge)](https://github.com/Alan-oliveir/Projetos)
-[![Credly](https://img.shields.io/badge/Credly-Conquistas-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/alan-de-oliveira-goncalves)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Projetos-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/alanogoncalves)
+[![GitProfile Portfólio](https://img.shields.io/badge/GitProfile-Portfólio-24292e?style=for-the-badge&logo=github)](https://alan-oliveir.github.io/portfolio/)
+[![Meus Projetos](https://img.shields.io/badge/📁Projetos-Visualizar-blue?style=for-the-badge)](https://github.com/Alan-oliveir/Projetos) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Projetos-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/alanogoncalves) 
+[![Credly](https://img.shields.io/badge/Credly-Conquistas-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/alan-de-oliveira-goncalves) 
+[![Site Notion](https://img.shields.io/badge/Notion-Site-000000?style=for-the-badge&logo=notion)](https://bit.ly/4iIKB2K) 
 
 ## 
 ### 🎓 Certificações
