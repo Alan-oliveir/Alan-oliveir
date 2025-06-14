@@ -38,7 +38,6 @@ Acesse também alguns dos meus perfis e projetos:
 
 [![GitProfile Portfólio](https://img.shields.io/badge/GitProfile-Portfólio-24292e?style=for-the-badge&logo=github)](https://alan-oliveir.github.io/portfolio/)
 [![Meus Projetos](https://img.shields.io/badge/📁Projetos-Visualizar-blue?style=for-the-badge)](https://github.com/Alan-oliveir/Projetos) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Projetos-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/alanogoncalves) 
 [![Credly](https://img.shields.io/badge/Credly-Conquistas-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/alan-de-oliveira-goncalves) 
 [![Site Notion](https://img.shields.io/badge/Notion-Site-000000?style=for-the-badge&logo=notion)](https://bit.ly/4iIKB2K) 
 
