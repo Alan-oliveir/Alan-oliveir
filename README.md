@@ -14,32 +14,22 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 ##
 ###  🚀 Tecnologias e Ferramentas
 
-#### 🔧 Uso frequente
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Tkinter](https://img.shields.io/badge/Tkinter-FFB500?style=for-the-badge&logo=python&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
-![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=raspberry-pi&logoColor=white)
- 
-#### 🧠 Estudando atualmente
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ##
 ### 🔗 Links Importantes
 
-Acesse também alguns dos meus perfis e projetos:
+Acesse também alguns dos meus projetos e certificações:
 
-[![GitProfile Portfólio](https://img.shields.io/badge/GitProfile-Portfólio-24292e?style=for-the-badge&logo=github)](https://alan-oliveir.github.io/portfolio/)
 [![Meus Projetos](https://img.shields.io/badge/📁Projetos-Visualizar-blue?style=for-the-badge)](https://github.com/Alan-oliveir/Projetos) 
 [![Credly](https://img.shields.io/badge/Credly-Conquistas-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/alan-de-oliveira-goncalves) 
-[![Site Notion](https://img.shields.io/badge/Notion-Site-000000?style=for-the-badge&logo=notion)](https://bit.ly/4iIKB2K) 
 
 ## 
 ### 🎓 Certificações
@@ -50,9 +40,7 @@ Acesse também alguns dos meus perfis e projetos:
 ##
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://streak-stats.demolab.com/?user=Alan-oliveir&count_private=true&theme=default" alt="streak stats"/>  
-</div>
+<img height="150em" src="https://streak-stats.demolab.com/?user=Alan-oliveir&count_private=true&theme=default" alt="streak stats"/>  
 
 ##
 ### 🤝 Contato
