@@ -37,14 +37,16 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 **GitHub Foundations** – Emitido por GitHub no Credly  
 
 ## 
-### ⚡ Projetos em Destaque
+### 📁 Projetos em Destaque
 
-#### 1. Playlite
+**1. Playlite**  
+
 Aplicação desktop para gerenciamento de bibliotecas de jogos construída com Rust, Tauri e React.  
 
 🔗 Organização: https://github.com/playlite-app
 
-#### 2. FinBoostPlus
+**2. FinBoostPlus**  
+
 Aplicação full-stack de controle financeiro desenvolvida em equipe utilizando React, Spring Boot, Docker e Oracle Cloud.  
 
 🔗 Organização: https://github.com/Finboostplus
