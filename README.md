@@ -26,16 +26,28 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 ##
 ### 🔗 Links Importantes
 
-Acesse também alguns dos meus projetos e certificações:
+[![Portfolio](https://img.shields.io/badge/Portfólio-Projetos-yellow?style=for-the-badge)](https://portfolio-alan-oliveirs-projects.vercel.app/)
+[![kaggle](https://img.shields.io/badge/Kaggle-Datasets-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/alanogoncalves) 
+[![Credly](https://img.shields.io/badge/Credly-Conquistas-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/alan-de-oliveira-goncalves)  
 
-[![Meus Projetos](https://img.shields.io/badge/📁Projetos-Visualizar-blue?style=for-the-badge)](https://github.com/Alan-oliveir/Projetos) 
-[![Credly](https://img.shields.io/badge/Credly-Conquistas-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/alan-de-oliveira-goncalves) 
-
-## 
+##
 ### 🎓 Certificações
 
 [![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-blue?style=for-the-badge)](https://www.credly.com/badges/ed519dd2-c10b-423d-b576-f02bf2869059)  
-**GitHub Foundations** – Emitido por GitHub no Credly
+**GitHub Foundations** – Emitido por GitHub no Credly  
+
+## 
+### ⚡ Projetos em Destaque
+
+#### 1. Playlite
+Aplicação desktop para gerenciamento de bibliotecas de jogos construída com Rust, Tauri e React.  
+
+🔗 Organização: https://github.com/playlite-app
+
+#### 2. FinBoostPlus
+Aplicação full-stack de controle financeiro desenvolvida em equipe utilizando React, Spring Boot, Docker e Oracle Cloud.  
+
+🔗 Organização: https://github.com/Finboostplus
 
 ##
 ### 📊 GitHub Stats
