@@ -29,6 +29,7 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 [![Portfolio](https://img.shields.io/badge/Portfólio-Projetos-yellow?style=for-the-badge)](https://portfolio-alan-oliveirs-projects.vercel.app/)
 [![kaggle](https://img.shields.io/badge/Kaggle-Datasets-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/alanogoncalves) 
 [![Credly](https://img.shields.io/badge/Credly-Conquistas-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/alan-de-oliveira-goncalves)  
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/Alan-oliveir)
 
 ##
 ### 🎓 Certificações
