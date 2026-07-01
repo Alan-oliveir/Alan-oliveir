@@ -18,7 +18,7 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![IoT](https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -43,7 +43,7 @@ Sou estudante de Engenharia Eletrônica e de Computação na UFRJ, com formaçã
 
 ## 💜 Apoie meu trabalho
 
-Se meus projetos open source foram úteis para você, considere apoiar:
+Se meus projetos foram úteis para você, considere apoiar:
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/Alan-oliveir)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alandeogoncalves)  
